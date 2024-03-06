@@ -1,3 +1,2 @@
-this is a test
-from git staging
-second change
+making a change off staging.
+new change
